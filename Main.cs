@@ -8,6 +8,7 @@ using System.Data;
 
 namespace UserActivityLog
 {
+
     class Main
     {
         private SqlConnection connection;
